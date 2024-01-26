@@ -32,7 +32,7 @@ For running this project you need to install <code>python</code> and <code>pip</
 
 1. Go to <b>Microsoft Store.</b>
 
-<img src="images/screenshot.png">
+<img src="screenshot.png">
 
 2. Click "Get" and install the latest <code>python</code> version (3.12)
 3. Download ZIP file of this repo and unpack it.
