@@ -83,7 +83,7 @@ To install libraries do this in terminal:
 pip install chatterbot==1.0.4 pytz
 ```
 
-# Open program
+### Open program
 
 To open python file, use this (working on Windows and Linux too):
 ```bash
