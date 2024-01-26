@@ -24,3 +24,44 @@
 
 ---
 
+# Installation
+
+### Windows
+
+For running this project you need to install <code>python</code> and <code>pip</code> first.
+
+1. Go to <b>Microsoft Store.</b>
+
+<img src="images/screenshot.png">
+
+2. Click "Get" and install the latest <code>python</code> version (3.12)
+3. Download ZIP file of this repo and unpack it.
+4. Now go into <b>PowerShell</b> and go into your repository folder using this command:
+```bash
+cd infine
+```
+
+### Linux
+
+In this example we are using `apt`, that uses in Ubuntu, Debian, Linux Mint, Kali Linux.
+
+1. First, you need to install <code>python3</code>, <code>python3-pip</code>. Open terminal and do this:
+
+```bash
+sudo apt install python3 python3-pip
+```
+
+2. Now download ZIP file of this repo and unpack it.
+
+>[!TIP]
+>You can also use git to download repos faster.
+>```bash
+>sudo apt install git # Installing git
+>
+>git clone https://github.com/memb3r/infine # Cloning repo
+>```
+
+3. Go to repo folder:
+```bash
+cd infine
+```
