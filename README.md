@@ -1,7 +1,3 @@
-<h1 align="center">
-  Infine - simple chat bot on Python
-</h1>
-
 <p align="center">
   <img src="banner.png">
 </p>
